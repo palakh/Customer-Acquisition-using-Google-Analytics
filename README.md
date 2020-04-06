@@ -86,7 +86,7 @@ Step 2. Focusing on important features across dimensions by aggregating everythi
 
 This simple analysis can help a website owner achieve actionable insights. Through this modeling, business insights can be drawn very easily. We can see that good sessions that came through the AT&T network, from Apple devices, via any TV/radio/print media marketing campaign or the digital social Facebook campaign were most positively impacting our PTR, while visitors from age group 35–44 are significantly affecting our PTR negatively. Through these insights, we can further align our marketing efforts to boost what is beneficial and correct what isn't working. 
 
-## Challenge Faced - Insufficiency of Data
+### Challenge Faced - Insufficiency of Data
 
 This was one of our biggest challenges in this project. Since our company set up their website in June, we had only five months of data to work with, not enough for a good time series model. That was our motivation for building a self-learning time series model, which will provide results with higher accuracy as the amount of training data increases. 
 
