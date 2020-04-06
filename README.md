@@ -88,7 +88,7 @@ This simple analysis can help a website owner achieve actionable insights. Throu
 
 ## Challenge Faced - Insufficiency of Data
 
-This was one of our biggest challenges in this project. Since our company set up their website in July, we had only four months of data to work with, not enough for a good time series model. That was our motivation for building a self-learning time series model, which will provide results with higher accuracy as the amount of training data increases. 
+This was one of our biggest challenges in this project. Since our company set up their website in June, we had only five months of data to work with, not enough for a good time series model. That was our motivation for building a self-learning time series model, which will provide results with higher accuracy as the amount of training data increases. 
 
 ## [Link to Towards Data Science Blog](https://medium.com/analytics-vidhya/google-analytics-simplified-28c549babee6)
 
