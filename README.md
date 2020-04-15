@@ -1,6 +1,6 @@
 # Customer-Acquisition-using-Google-Analytics
 
-![]()
+![](https://startupnation.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-19-at-1.50.34-PM.jpg)
 
 
 Google Analytics is presently one of the most popular digital analytics software. It can provide valuable insights that can help business shape their strategies to target more customers. Though like everything in the world of Data Science and Analytics, there is a tradeoff – a cost of $150k for customer level insights. Across industries, customer acquisition work in similar ways. This analysis would prove extremely useful in creating customized strategies for different customer segments. Forecasting the traction will help in systematic presentation of promotional offers, special packages etc.  
